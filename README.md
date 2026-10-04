@@ -61,7 +61,6 @@
 为了防止核心敏感协议与逆向分析数据被滥用，本项目采用双仓库隔离管理：
 - **公开仓库 ([Phigros-C89-Controller](https://github.com/PhigrosLabs/Phigros-C89-Controller))**：仅包含用户说明文档、版本 Release 与 Issue 反馈追踪。
 
-
 ---
 
 ## 鸣谢
